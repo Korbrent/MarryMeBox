@@ -8,6 +8,8 @@ FreeCAD was used for 3D modeling of the project. Due to imprecisions with my 3D 
 
 While one theoretically could skip the usage of gears and directly link the servo motor to the swivel arm, I found that this left very little room for the internal components to sit comfortably. 
 
+The font used for the text is "Fiolex Girls" and was found [here](https://www.dafont.com/fiolex-girls.font).
+
 ## Electronic Components
 For the project, I used a 1.33" OLED display, an SG90 servo motor, two ttp223 touch sensors, and a female USB-C port. The controlling unit is an Arduino Nano Every.
 
