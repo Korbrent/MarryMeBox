@@ -21,3 +21,6 @@ This project was done using an Arduino Nano Every, using the Adafruit GFX librar
 ![CAD Image](./Images_And_Media/CAD_Screenshot.png)
 ![Powered Off Image](./Images_And_Media/image_0.jpg)
 ![Working Image](./Images_And_Media/image_1.jpg)
+
+https://github.com/user-attachments/assets/6c79e07c-60ec-47b3-b9be-c8a42adbd6d8
+
